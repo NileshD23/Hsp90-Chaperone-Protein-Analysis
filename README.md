@@ -1,1 +1,2 @@
 # Hsp90-Chaperone-Protein-Analysis
+This program reads in each of the 268 Hsp90 protein sequences, extracts the subsequence associated with the disordered regions, and computes the fraction of negatively and positively charged amino acids in the disordered region. It will then compute the fraction of both positively and negatively charged amino acids across the whole sequence for comparison and prints to an output file.
