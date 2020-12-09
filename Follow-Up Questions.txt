@@ -1,0 +1,21 @@
+(1) Are there differences in the fraction of charged amino acids in 
+the linker region relative to the rest of the protein? What are they?
+
+	According to my data, the fraction of positively charged amino acids
+	in the disordered sequence is about 1/3 of the fraction of positively 
+	charged amino acids in the whole sequence. The fraction of negatively 
+	charged amino acids in the disordered sequence is about twice as large
+	as the fraction of negatively charged amino acids in the whole sequence.
+
+	Disordered Sequence Ranges:
+	 - % positively charged amino acids: 3% - 12%
+	 - % negatively charged amino acids: 12% - 43%
+
+	Complete Sequence Ranges:
+	 - % positively charged amino acids: 14% - 21%
+	 - % negatively charged amino acids: 18% - 21%
+
+
+(2) How consistent is this property across the 268 Hsp90 orthologs?
+
+	Very consistent; it is seen in almost every ortholog. 
